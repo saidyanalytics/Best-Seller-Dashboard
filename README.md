@@ -73,7 +73,7 @@ Imagine a retail company struggling to understand which products are performing 
 
 
 
-| Tool          | Purpose                                      |
+| Tool          | Purpose                                      
 |---------------|----------------------------------------------|
 | **Power BI**  | Data Modeling, Visualization, KPI building   |
 | **DAX**       | Calculated Measures, Advanced Filtering      |
