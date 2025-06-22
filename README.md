@@ -1,6 +1,6 @@
 # 🏆 Best Sellers Dashboard | Power BI Project\
 
-📊 A professional Power BI dashboard that provides real-time insights into top-selling products, revenue trends, and category-wise analysis to help businesses make informed decisions.
+📊 A professional Power BI dashboard that provides real-time insights into top-selling products, revenue trends, and category-wise analysis to help businesses make informed decisions..
 
 
 
