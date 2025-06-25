@@ -37,7 +37,7 @@ using a clean, dynamic, and interactive dashboard in Power BI. It empowers stake
 
 Imagine a retail company struggling to understand which products are performing well and which aren’t. Sales data is collected but not utilized for decision-making.
 
-**This dashboard bridges that gap**—making raw data understandable for non-technical stakeholders, enabling them to act with confidence.
+**This dashboard bridges that gap**—making raw data understandable for non-technical stakeholders, enabling them to act with confidence..
 
 
 
