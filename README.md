@@ -137,7 +137,7 @@ Imagine a retail company struggling to understand which products are performing 
 
 ✔ Improves marketing focus on high-margin products
 
-✔ Provides quick executive-level summary via KPIs
+✔ Provides quick executive-level summary via KPIs.
 
 
 
