@@ -99,7 +99,7 @@ Imagine a retail company struggling to understand which products are performing 
 ## 📈 KPI Metrics Used
 
 
-- **Total Revenue** – Sum of all sales values
+- **Total Revenue** – Sum of all sales values.
 - **Total Units Sold** – Sum of all quantity sold
 - **Average Sales per Product**
 - **Revenue Growth %**
