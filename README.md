@@ -16,7 +16,7 @@
 The aim of this project is to visualize sales performance and identify the **best-selling products** 
 
 
-using a clean, dynamic, and interactive dashboard in Power BI. It empowers stakeholders to:
+using a clean, dynamic, and interactive dashboard in Power BI. It empowers stakeholders to
 
 
 
